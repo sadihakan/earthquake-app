@@ -8,15 +8,12 @@
 
 enum Constants {
     
-    enum App {
-        static let unknow = "UNKNOWN"
-    }
     enum Ads {
-//        static let interstitialID = "ca-app-pub-6679212689116387/5220149545"
-//        static let bannerID = "ca-app-pub-6679212689116387/3054711704"
+        static let interstitialID = "ca-app-pub-6679212689116387/5220149545"
+        static let bannerID = "ca-app-pub-6679212689116387/3054711704"
         
         //Test
-        static let interstitialID = "ca-app-pub-3940256099942544/4411468910"
-        static let bannerID = "ca-app-pub-3940256099942544/2934735716"
+//        static let interstitialID = "ca-app-pub-3940256099942544/4411468910"
+//        static let bannerID = "ca-app-pub-3940256099942544/2934735716"
     }
 }

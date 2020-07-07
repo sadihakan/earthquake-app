@@ -30,6 +30,7 @@ class EarthquakesListViewController: UIViewController {
     }
     
     private func setup() {
+        loadGADs()
         startLocationManager()
         navbarSettings()
         WebService().getData() { [weak self] earthquakes in

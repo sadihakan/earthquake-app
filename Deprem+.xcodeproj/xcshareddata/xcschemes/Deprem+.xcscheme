@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FA61CC7324B32F4000501DF8"
-               BuildableName = "Deprem+.app"
+               BuildableName = "Deprem.app"
                BlueprintName = "Deprem+"
                ReferencedContainer = "container:Deprem+.xcodeproj">
             </BuildableReference>
@@ -45,7 +45,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FA61CC7324B32F4000501DF8"
-            BuildableName = "Deprem+.app"
+            BuildableName = "Deprem.app"
             BlueprintName = "Deprem+"
             ReferencedContainer = "container:Deprem+.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FA61CC7324B32F4000501DF8"
-            BuildableName = "Deprem+.app"
+            BuildableName = "Deprem.app"
             BlueprintName = "Deprem+"
             ReferencedContainer = "container:Deprem+.xcodeproj">
          </BuildableReference>
