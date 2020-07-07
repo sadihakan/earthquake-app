@@ -66,12 +66,12 @@ extension EarthquakeViewModel {
     
     var intensityColor: UIColor {
         let intensity = Double(getIntensityFromText(self.earthquake.intensity)) ?? 0
-        if intensity > 2.5 {
-            return UIColor.orange
+        if intensity > 4.5 {
+            return UIColor.red
         } else if intensity > 3.5 {
             return UIColor.orange
-        } else if intensity > 4.5 {
-            return UIColor.red
+        } else if intensity > 2.5 {
+            return UIColor.orange
         } else {
             return UIColor.label
         }
